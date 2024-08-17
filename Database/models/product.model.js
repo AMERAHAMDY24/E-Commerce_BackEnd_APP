@@ -16,7 +16,7 @@ const productSchema= new Schema({
 
         type:String,
         trim:true,
-        lowerCase:True
+        lowerCase:true
     },
 
 overview:String,
